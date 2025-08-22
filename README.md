@@ -56,4 +56,4 @@ This ensures a smooth, transparent, and reliable ordering experience.
 ---
 
 ## Status  
-🚀 Currently in *planning phase* – starting with template-based customization and online payments.
+🚀 Currently in *planning phase* 
