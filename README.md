@@ -23,3 +23,6 @@ This ensures a smooth, transparent, and reliable ordering experience.
 
 ## guideline project 
 https://drive.google.com/drive/folders/197wk_qrLOJV7xZM6n4jiLbp6NN36iTyu
+
+## Landing page 
+https://indd.adobe.com/view/054bc561-c834-4f80-85ce-2b5905209487
